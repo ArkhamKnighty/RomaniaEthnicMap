@@ -62,4 +62,7 @@ Successfully implemented a responsive map interface and achieved real-time data 
 * Advanced demographic analytics ( data exploration tools, visual analytics )
 * User authentication and permissions ( secure login, role-based permission, multi-factor, audit trail )
 
-Feel free to reach out for feedback or collaboration!
+## Class diagram
+![alt text]([http://url/to/img.png](https://ibb.co/zbCxHH8))
+
+## Feel free to reach out for feedback or collaboration!
