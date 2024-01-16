@@ -63,6 +63,7 @@ Successfully implemented a responsive map interface and achieved real-time data 
 * User authentication and permissions ( secure login, role-based permission, multi-factor, audit trail )
 
 ## Class diagram
-![alt text]([http://url/to/img.png](https://ibb.co/zbCxHH8))
+![Class diagram](classDiagram.png)
+
 
 ## Feel free to reach out for feedback or collaboration!
